@@ -1,6 +1,5 @@
 
 [![MasterHead](https://img.freepik.com/premium-vector/banner-software-engineer_810894-60.jpg)
-
 <h1 align="center">Hi 👋, I'm Numa Rahim</h1>
 <h3 align="center">A passionate frontend developer and Enroute Software Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
